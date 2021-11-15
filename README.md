@@ -9,4 +9,4 @@ Basic repository to text out a few concepts for NLP using pytorch
 - [ ] Word embedding viz
 
 # References
- - https://github.com/edwin-19/pytorch_nlp.git
+ - https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html
